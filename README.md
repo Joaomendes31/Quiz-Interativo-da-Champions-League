@@ -41,6 +41,14 @@ As perguntas são geradas com base em consultas SQL feitas diretamente à base d
 Tela das Perguntas 
 ![Imagem do WhatsApp de 2025-06-18 à(s) 11 00 22_29053d9d](https://github.com/user-attachments/assets/b04ad01f-bb82-4857-bf3b-8ad23ce89cf5)
 
+Tela Final do Quiz
+![Imagem do WhatsApp de 2025-06-18 à(s) 11 01 32_3d6b3a71](https://github.com/user-attachments/assets/58ec4bf6-2aee-4c79-831b-bc1ef522f5c8)
+
+Tela de Geração e gerenciamento de Perguntas
+
+![Imagem do WhatsApp de 2025-06-18 à(s) 11 04 37_ce4b77a8](https://github.com/user-attachments/assets/b3cda22d-07a5-4153-a835-4e81f51a396e)
+
+
 ## 🚀 Como Executar
 
 1. *Clone o repositório:*
