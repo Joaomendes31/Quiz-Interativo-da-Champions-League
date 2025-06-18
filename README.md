@@ -38,6 +38,8 @@ As perguntas são geradas com base em consultas SQL feitas diretamente à base d
 | OS / JSON      | Gerenciamento de arquivos e credenciais  |
 
 ---
+Tela das Perguntas 
+![Imagem do WhatsApp de 2025-06-18 à(s) 11 00 22_29053d9d](https://github.com/user-attachments/assets/b04ad01f-bb82-4857-bf3b-8ad23ce89cf5)
 
 ## 🚀 Como Executar
 
