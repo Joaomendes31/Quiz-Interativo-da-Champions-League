@@ -1,3 +1,11 @@
+Nomes dos Integrantes do grupo: 
+João Victor Paes Nogueira 
+202402398776
+Matheus Gomes de Arruda 
+202404213536
+João Manoel Loureiro Mendes
+202402398007
+
 # ⚽ Quiz Interativo de Futebol - Champions League
 
 Este projeto é um *quiz interativo sobre futebol* focado na UEFA Champions League, com perguntas baseadas em *dados reais da Base dos Dados (basedosdados.org). Desenvolvido em **Python, o sistema conta com uma **interface gráfica (Tkinter), integração com a **Google Cloud, geração dinâmica de perguntas e funcionalidades completas de **CRUD para perguntas personalizadas*.
