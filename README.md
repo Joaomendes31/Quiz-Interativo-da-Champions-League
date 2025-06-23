@@ -1,9 +1,12 @@
 Nomes dos Integrantes do grupo: 
 João Victor Paes Nogueira 
+
 202402398776
-Matheus Gomes de Arruda 
+Matheus Gomes de Arruda
+
 202404213536
 João Manoel Loureiro Mendes
+
 202402398007
 
 # ⚽ Quiz Interativo de Futebol - Champions League
